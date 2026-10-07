@@ -1,0 +1,30 @@
+---
+title: ""
+---
+
+# Contact
+
+Thank you for visiting my portfolio. I am always interested in connecting with professionals, employers, and others working in business analytics, insurance, data, and technology.
+
+## Get in Touch
+
+**Email:** jlawhorn@bu.edu
+
+**GitHub:** [Visit my GitHub profile](https://github.com/)
+
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+
+## Professional Interests
+
+I am particularly interested in opportunities involving:
+
+- Business Analytics
+- Data Analytics
+- Cloud Computing
+- Insurance Technology
+- Risk Analysis
+- Business Intelligence
+- Data Visualization
+- Machine Learning
+
+I welcome opportunities to connect, discuss projects, and learn more about careers that combine business and technology.

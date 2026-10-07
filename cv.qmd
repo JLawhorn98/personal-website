@@ -1,0 +1,62 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+## Professional Summary
+
+Commercial Property & Casualty insurance professional with experience in underwriting, risk evaluation, pricing, and business decision-making. Currently expanding technical expertise through graduate coursework in Big Data and Cloud Analytics for Business.
+
+My professional and academic experience combines business analysis with emerging technologies including data analytics, cloud computing, data visualization, and machine learning.
+
+## Professional Experience
+
+### Commercial P&C Underwriting
+
+My underwriting experience includes evaluating commercial accounts, analyzing financial information, reviewing loss history, assessing exposures, developing pricing, and working with agents to structure appropriate insurance programs.
+
+Key areas of experience include:
+
+- Commercial underwriting
+- Risk analysis and evaluation
+- Financial analysis
+- Loss analysis
+- Pricing and portfolio management
+- Business-to-business communication
+- Property and casualty insurance
+- Data-driven decision making
+
+## Education
+
+### Big Data & Cloud Analytics for Business
+
+Graduate coursework focused on applying data and cloud technologies to business problems.
+
+Relevant topics include:
+
+- Big Data Analytics
+- Cloud Computing
+- AWS
+- Python
+- Data Visualization
+- Databases
+- Machine Learning
+- Business Intelligence
+- Spark ML
+- GitHub and Version Control
+
+## Technical Skills
+
+**Analytics:** Python · Data Analysis · Data Visualization · Tableau
+
+**Cloud:** AWS · Amazon EC2 · Amazon S3 · Amazon RDS · Amazon DynamoDB · AWS Lambda
+
+**Development:** Git · GitHub · Visual Studio Code · Quarto · Jupyter
+
+**Data & Machine Learning:** SQL · Machine Learning · Clustering · Classification · Model Evaluation · Spark ML
+
+## Download My Full CV
+
+My complete curriculum vitae is available as a PDF download below. 
+[**Download My CV (PDF)**](Resume.pdf)

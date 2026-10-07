@@ -1,0 +1,60 @@
+---
+title: ""
+---
+
+# Joseph Lawhorn
+
+## Commercial Underwriting | Business Analytics | Cloud Technology
+
+Welcome to my professional portfolio.
+
+I am a CPCU-designated Senior Commercial Lines Underwriter with more than five years of experience evaluating complex commercial risks across Property, General Liability, Commercial Auto, Workers' Compensation, Umbrella, and Inland Marine.
+
+I am currently completing my Master of Science in Business Analytics at Boston University, where I am developing additional expertise in data analytics, visualization, cloud computing, machine learning, and business intelligence.
+
+## What I Bring
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+### Business & Insurance
+
+- Commercial underwriting
+- Risk assessment
+- Financial analysis
+- Pricing strategy
+- Portfolio management
+- Agency relationships
+
+:::
+
+::: {.column width="50%"}
+
+### Analytics & Technology
+
+- Data analytics
+- Tableau
+- Power BI
+- Python
+- AWS
+- Machine learning
+- GitHub & Quarto
+
+:::
+
+:::
+
+## Explore My Portfolio
+
+**[View My Projects →](projects.qmd)**
+
+Explore selected academic and technical projects demonstrating my experience with analytics, cloud computing, visualization, and machine learning.
+
+**[View My CV →](cv.qmd)**
+
+Review my professional experience, education, technical skills, and CPCU designation.
+
+**[Contact Me →](contact.qmd)**
+
+Connect with me regarding professional opportunities, analytics, technology, or business.

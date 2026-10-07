@@ -1,0 +1,34 @@
+---
+title: "About Me"
+---
+
+# Joseph Lawhorn
+
+## Business Analytics & Insurance Professional
+
+I am a commercial property and casualty insurance professional with a strong interest in business analytics, data, and cloud technology. My professional experience has given me a practical understanding of risk analysis, decision-making, and using data to evaluate business opportunities.
+
+I am currently expanding my technical skills through graduate coursework in Big Data and Cloud Analytics for Business. Through this program, I am developing experience with Python, data visualization, cloud computing, AWS, GitHub, machine learning, and analytics tools.
+
+## Career Goals
+
+My goal is to combine my experience in commercial insurance and underwriting with analytics and technology. I am particularly interested in using data to improve business decisions, identify trends, evaluate risk, and create more efficient processes.
+
+As I continue developing my technical skills, I want to build a career that combines business knowledge with data analytics and emerging cloud technologies.
+
+## Interests
+
+- Business Analytics
+- Data Analytics
+- Cloud Computing
+- Machine Learning
+- Risk Analysis
+- Data Visualization
+- Insurance & Financial Services
+- Technology and Business Strategy
+
+## Education
+
+**Graduate Studies — Big Data & Cloud Analytics for Business**
+
+I am developing practical skills in data analysis, visualization, cloud technologies, databases, machine learning, and business intelligence.
