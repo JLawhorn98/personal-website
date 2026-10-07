@@ -4,7 +4,7 @@ title: "Projects"
 
 # My Projects
 
-This portfolio highlights selected academic and technical projects that demonstrate my experience with data analytics, visualization, cloud computing, and business intelligence.
+This portfolio highlights selected academic and technical projects that demonstrate my experience with data analytics, visualization, cloud computing, machine learning, and business intelligence.
 
 ## Marketing Analytics
 
@@ -110,6 +110,11 @@ The analysis included:
 
 ### Selected Visualizations
 
+#### Median Salary by Occupation
+
+![Median Salary by Occupation](median-salary-onet.png)
+
+This visualization examines median compensation across occupations and highlights differences in earning potential between career fields.
 
 #### Salary and Experience — Master's Degree
 
@@ -124,5 +129,3 @@ This analysis explores the relationship between professional experience and sala
 This visualization examines compensation patterns for remote positions and provides another perspective on how work arrangements relate to salary.
 
 **Skills:** Big Data · Data Visualization · Python · Pandas · Data Analysis · Statistical Analysis · Business Analytics
-
----
