@@ -110,17 +110,6 @@ The analysis included:
 
 ### Selected Visualizations
 
-#### Salary Distribution by Industry and Employment Type
-
-![Salary Distribution by Industry and Employment Type](salary-industry-employment.png)
-
-This visualization compares salary distributions across industries and employment types, providing insight into differences in compensation across the job market.
-
-#### Median Salary by Occupation
-
-![Median Salary by Occupation](median-salary-onet.png)
-
-This visualization examines median compensation across occupations and highlights differences in earning potential between career fields.
 
 #### Salary and Experience — Master's Degree
 
